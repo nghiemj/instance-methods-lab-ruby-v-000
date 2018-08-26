@@ -4,7 +4,7 @@ def talk
 
 def 
   walk
-  puts "Ther Person is walking"
+  puts "The Person is walking"
 end
 end
 end
